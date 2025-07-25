@@ -26,4 +26,4 @@ me.bloom()
    - Reading: "The Four Agreements"
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=f8bbd0&text_color=e0d6e9" alt="Languages" style="border-radius: 10px; width: 48%;"> 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
