@@ -1,7 +1,7 @@
-## A world full of beginnings. 👋
+## A world full of beginnings. 
 <!-- 𝗗𝗮𝗿𝗸 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗮 𝗛𝗲𝗮𝗱𝗲𝗿 𝘄𝗶𝘁𝗵 𝗖𝗵𝗲𝗿𝗿𝘆 𝗕𝗹𝗼𝘀𝘀𝗼𝗺 𝗠𝗮𝗴𝗶𝗰 -->
 <div align="center" style="background: linear-gradient(to bottom, #0f0c29 0%, #302b63 100%); padding: 3rem 2rem; border-radius: 15px; position: relative; overflow: hidden; border: 1px solid rgba(216, 112, 147, 0.3); box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);">
-
+🌌 "The universe is under no obligation to make sense to you."
   <!-- 𝗖𝗵𝗲𝗿𝗿𝘆 𝗕𝗹𝗼𝘀𝘀𝗼𝗺 𝗚𝗜𝗙 -->
   <img src="https://i.redd.it/uu3aeh632mlb1.gif" width="90%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 10px 30px rgba(216, 112, 147, 0.4); margin-bottom: 1.5rem;">
 
@@ -20,25 +20,13 @@
 
 ---
 
-### 𝗧𝗵𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁'𝘀 𝗕𝗹𝘂𝗲𝗽𝗿𝗶𝗻𝘁
-```python
-class DigitalGardener:
-    def __init__(self):
-        self.mind = "INTJ-T"
-        self.tools = ["Python", "React", "Systems Thinking"]
-        self.current_project = "Cherry Tomato"
-        self.philosophy = "Minimalism with whimsy"
-        
-    def bloom(self):
-        print("Turning bugs into features since 2025")
-
 me = DigitalGardener()
 me.bloom()
 1. 🎯 "The arrow that hits the target is the one you release."
    - Currently sharpening: Data Structures
 2. 📚 "A book is a mirror where you only see what you know."
    - Reading: "Designing Data-Intensive Applications"
-3. 🌌 "The universe is under no obligation to make sense to you."
+3. 
    - Latest fascination: Quantum analogies in code
 <!-- 𝗧𝗼𝗽 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=f8bbd0&text_color=e0d6e9" alt="Languages" style="border-radius: 10px; width: 48%;">
