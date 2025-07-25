@@ -1,7 +1,7 @@
 ## A world full of beginnings. 
 <!-- 𝗗𝗮𝗿𝗸 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗮 𝗛𝗲𝗮𝗱𝗲𝗿 𝘄𝗶𝘁𝗵 𝗖𝗵𝗲𝗿𝗿𝘆 𝗕𝗹𝗼𝘀𝘀𝗼𝗺 𝗠𝗮𝗴𝗶𝗰 -->
 <div align="center" style="background: linear-gradient(to bottom, #0f0c29 0%, #302b63 100%); padding: 3rem 2rem; border-radius: 15px; position: relative; overflow: hidden; border: 1px solid rgba(216, 112, 147, 0.3); box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);">
-🌌 "The universe is under no obligation to make sense to you."
+ "The universe is under no obligation to make sense to you."
   <!-- 𝗖𝗵𝗲𝗿𝗿𝘆 𝗕𝗹𝗼𝘀𝘀𝗼𝗺 𝗚𝗜𝗙 -->
   <img src="https://i.redd.it/uu3aeh632mlb1.gif" width="90%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 10px 30px rgba(216, 112, 147, 0.4); margin-bottom: 1.5rem;">
 
