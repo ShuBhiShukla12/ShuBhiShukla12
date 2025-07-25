@@ -22,11 +22,7 @@
 
 me = DigitalGardener()
 me.bloom()
-1. 🎯 "The arrow that hits the target is the one you release."
-   - Currently sharpening: Data Structures
-2. 📚 "A book is a mirror where you only see what you know."
+  "A book is a mirror where you only see what you know."
    - Reading: "Designing Data-Intensive Applications"
-3. 
-   - Latest fascination: Quantum analogies in code
-<!-- 𝗧𝗼𝗽 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 -->
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=f8bbd0&text_color=e0d6e9" alt="Languages" style="border-radius: 10px; width: 48%;">
